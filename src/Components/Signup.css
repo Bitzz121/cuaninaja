@@ -1,0 +1,7 @@
+.signin-link__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  font-size: 13px;
+}
